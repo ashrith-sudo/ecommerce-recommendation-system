@@ -1,6 +1,5 @@
 # E‑Commerce Recommendation System  
 
-[![Demo](https://img.shields.io/badge/Demo-Live%20Preview-green?style=for-the-badge&logo=github)](#)  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
@@ -285,15 +284,7 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 - Modify, distribute, and sublicense the software.  
 - Include a copy of the license and attribution in your derived works.  
 
----  
-
-## 📬 Contact & Acknowledgements  
-
-**Your Name** – [your.email@example.com](mailto:your.email@example.com)  
-
-GitHub: <https://github.com/yourusername>  
-
-Project Link: <https://github.com/yourusername/ecommerce-recommendation-system>  
+--- 
 
 ### Acknowledgements  
 
